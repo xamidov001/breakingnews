@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="onboard_txt1">Сначала знать</string>
+    <string name="onboard_txt2">Все новости в одном месте, узнавайте последние новости первым</string>
+    <string name="onboard_txt3">Далше</string>
+    <string name="welcome_txt1">Все новости в одном месте, узнавайте последние новости первым</string>
+    <string name="welcome_txt2">Начать</string>
+    <string name="favourite_txt1">Выберите ваши любимые темы</string>
+    <string name="favourite_txt2">Выберите некоторые из ваших любимых тем, чтобы мы могли предложить вам лучшие новости.</string>
+    <string name="home_txt1">Просматривать</string>
+    <string name="home_txt2">Откройте для себя вещи этого мира</string>
+    <string name="home_txt3">Рекомендации</string>
+    <string name="home_txt4">Увидеть все</string>
+    <string name="cat_txt1">Категории</string>
+    <string name="cat_txt2">Тысячи статей в каждой категории</string>
+    <string name="book_txt1">Закладки</string>
+    <string name="book_txt2">Сохраненные статьи в библиотеке</string>
+    <string name="setting_txt1">Настройки</string>
+    <string name="setting_txt2">Светлый тема</string>
+    <string name="setting_txt3">Язык</string>
+
+</resources>

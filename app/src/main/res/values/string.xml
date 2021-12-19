@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name" translatable="false">Breaking News</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="news_data" translatable="false">Leads in individual states may change from one party to another as all the votes are counted. Select a state for detailed results, and select the Senate, House or Governor tabs to view those races. For more detailed state results click on the States A-Z links at the bottom of this page. Results source: NEP/Edison via Reuters. Leads in individual states may change from one party to another as all the votes are counted. Select a state for detailed results, and select the Senate, House or Governor tabs to view those races. For more detailed state results click on the States A-Z links at the bottom of this page. Results source: NEP/Edison via Reuters.</string>
+    
+    <string name="onboard_txt1">First to know</string>
+    <string name="onboard_txt2">All news in one place, be the first to know last news</string>
+    <string name="onboard_txt3">Next</string>
+    <string name="welcome_txt1">All news in one place, be the first to know last news</string>
+    <string name="welcome_txt2">Get Started</string>
+    <string name="favourite_txt1">Select your favorite topics</string>
+    <string name="favourite_txt2">Select some of your favorite topics to let us suggest better news for you.</string>
+    <string name="home_txt1">Browse</string>
+    <string name="home_txt2">Discover things of this world</string>
+    <string name="home_txt3">Recommended for you</string>
+    <string name="home_txt4">See All</string>
+    <string name="cat_txt1">Categories</string>
+    <string name="cat_txt2">Thousands of articles in each category</string>
+    <string name="book_txt1">Bookmarks</string>
+    <string name="book_txt2">Saved articles to the library</string>
+    <string name="setting_txt1">Settings</string>
+    <string name="setting_txt2">Light Mode</string>
+    <string name="setting_txt3">Language</string>
+
+
+</resources>
